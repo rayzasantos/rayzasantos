@@ -2,7 +2,6 @@
 
 🎓 **Mestranda em Estatística** no Programa Interinstitucional de Pós-Graduação em Estatística UFSCar-USP  
 📊 Interesse em Análise Espacial, Modelos de Aprendizado de Máquina, Séries Temporais e Back-End  
-🖥️ Habilidades: Python, R, Power BI, JavaScript, CSS,HTML,Modelagem Estatística
 
 ### GitHub Stats:
 <div>
@@ -14,12 +13,15 @@
 
 ### Tecnologias que Uso:
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="RStudio" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rstudio_logo_flat.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://www.svgrepo.com/show/306500/power-bi.svg">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
+  <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+</div>
+
+
 </div>
 
 <br>
