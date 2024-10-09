@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil 😁
+## Olá! Eu sou Rayza Santos 👋
+
+🎓 **Mestranda em Estatística** no Programa Interinstitucional de Pós-Graduação em Estatística UFSCar-USP  
+📊 Interesse em Análise Espacial, Modelos de Aprendizado de máquina, Séries Temporais e Back-End   
+🖥️ Habilidades: Python, R, Power BI, JavaScript, CSS, Modelagem Estatística
 
  <div>
    <a href="https://github.com/rayzasantos">
