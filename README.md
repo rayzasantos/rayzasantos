@@ -1,36 +1,27 @@
-## Olá! Eu sou Rayza Santos 👋
+# Rayza Santos
 
-🎓 **Mestranda em Estatística** no Programa Interinstitucional de Pós-Graduação em Estatística UFSCar-USP  
-📊 Interesse em Análise Espacial, Modelos de Aprendizado de Máquina, Séries Temporais e Back-End  
+Cientista de dados na Math Group e mestre em Estatística pelo PIPGEs (ICMC-USP/UFSCar). Trabalho com machine learning e modelagem estatística aplicados a problemas de negócio, como previsão de demanda, lead scoring e segmentação de clientes.
 
-### GitHub Stats:
-<div>
-  <a href="https://github.com/rayzasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayzasantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayzasantos&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+Hoje desenvolvo modelos de previsão de demanda de matrículas e de recomendação de horários de cursos em Databricks com PySpark, para um cliente internacional. Antes disso, fiz modelos para analisar acidentes de trânsito na STTP de Campina Grande e painéis de dados na UEPB, onde me formei em Estatística.
 
-### Tecnologias que Uso:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
-  <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-</div>
+## Projetos em destaque
 
+| Projeto | O que tem | Stack |
+|---|---|---|
+| [Similaridade entre poços com DTW](https://github.com/rayzasantos/Dissertacao) | Código da minha dissertação: clustering hierárquico sobre distâncias DTW em perfis geofísicos de 30 poços de cinco bacias brasileiras | Python, SciPy, scikit-learn |
+| [Dashboard da dissertação](https://github.com/rayzasantos/Dashboard_Disserta-o) | Painel interativo para explorar os perfis dos poços, empacotado com Docker para rodar no Hugging Face Spaces | Dash, Plotly, Flask, Docker |
+| [Parkinson com EEG e Transformers](https://github.com/rayzasantos/Deep_Learning-) | EEG de repouso do OpenNeuro: filtragem, remoção de artefatos, segmentação, classificador Transformer e interpretação com Captum | MNE, PyTorch, Captum |
+| [Séries temporais](https://github.com/rayzasantos/Serie-temporal) | Trabalhos da disciplina de séries temporais, com código e relatório | R |
+| [Pinguins de Palmer](https://github.com/rayzasantos/Machine-learning-) | Comparação de modelos supervisionados para prever o sexo dos pinguins a partir das medidas corporais | scikit-learn |
 
-</div>
+## Stack
 
-<br>
+- **Linguagens:** Python, SQL, R
+- **Machine learning:** scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, SHAP
+- **Big Data:** PySpark, Databricks
+- **Visualização:** Power BI, Dash, Plotly, Looker Studio
+- **Ferramentas:** Git, Docker, LaTeX
 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
+## Contato
 
-  <div> 
-  <a href="https://www.linkedin.com/in/rayza-santos-521006198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-</div>
+[LinkedIn](https://www.linkedin.com/in/rayzacamila/)
